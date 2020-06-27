@@ -1,0 +1,11 @@
+step 1. using your command line cd into the csv-to-json folder
+
+YOU ONLY HAVE TO DO THIS ONCE
+step 2. you need to download the modules. In your command line type "npm install" hit enter
+
+step 3. move your .csv file into the csv-to-json folder
+step 4. rename your .csv to file to "csv.csv"
+step 5. in your command line type "node index.js" hit enter
+
+FINISHED
+you should have a new file csv.json which is your new json file
